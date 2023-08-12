@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Portland, OR</string>
+    <string name="back">Back</string>
+
+    <string name="c1">Cafes</string>
+    <string name="c2">Restaurants</string>
+    <string name="c3">Shopping</string>
+
+    <string name="cafe1">Soro Soro</string>
+    <string name="cafe2">Umami Café</string>
+    <string name="cafe3">Proud Mary Cafe</string>
+    <string name="cafe4">Tanaka</string>
+
+    <string name="c1Address">Address: 2250 E Burnside St, Portland, OR 97214</string>
+    <string name="c1Desc">Korean coffee shop culture in Portland, OR. Delicious classic desserts with some Asian fusion such as MATCHA T.</string>
+
+    <string name="c2Address">Address: 611 SW Kingston Dr, Portland, OR 97205</string>
+    <string name="c2Desc">Here, you will experience the pairing of world-class Japanese tea with traditional gracious, attentive service, and delicious edible delights.With a design reminiscent of Kyoto’s Kiyomizu-dera temple, the Umami Café floats over the hillside and provides views of the area’s natural beauty.</string>
+
+    <string name="c3Address">Address: 2012 NE Alberta St, Portland, OR 97211</string>
+    <string name="c3Desc">Proud Mary, which was founded in Australia, has established itself as the Portland leader for super prestigious, award-winning coffee beans. There are very few other places in the city that consistently carry Cup of Excellence honorees.</string>
+
+    <string name="c4Address">Address: 678 SW 12th Ave, Portland, OR 97205</string>
+    <string name="c4Desc">Tanaka’s menus feature sweet and savory options. A focus is on katsu and a 70-year-old katsu sauce recipe, which vie for attention with shokupan bread, a light and fluffy milk bread baked in-house daily. Pastries are infused with flavors found in Japanese cuisine.</string>
+
+    <string name="restaurant1">The Waffle Window</string>
+    <string name="restaurant2">Chimcking</string>
+    <string name="restaurant3">Kkoki KBBQ</string>
+    <string name="restaurant4">Fire on the Mountain</string>
+
+    <string name="r1Address">Address: 3610 SE Hawthorne Blvd, Portland, OR 97214</string>
+    <string name="r1Desc">Think you know waffles? Think again. This adorable and affordable eatery, housed in the Bread and Ink Cafe, serves homemade Belgian waffles like you have never had before. The menu features fun seasonal items as well as showcasing ingredients that are in season.</string>
+
+    <string name="r2Address">Address: 4118 NE Sandy Blvd, Portland, OR 97212</string>
+    <string name="r2Desc">Are you ready to embark on a culinary adventure that combines crispy chicken and refreshing beer? Look no further than Chimcking Chicken and Beer, a Korean delight that has taken the food scene by storm.</string>
+
+    <string name="r3Address">Address: 8001 SE Powell Blvd O, Portland, OR 97206</string>
+    <string name="r3Desc">Offering a range of authentic Korean food and beverage items such as angus prime rib, beef, chicken, pork, shrimp and noodle soup, additionally drinks such as Soju. It is a fun experience to grill and eat on the center of your table.</string>
+
+    <string name="r4Address">Address: 1708 E Burnside St, Portland, OR 97214</string>
+    <string name="r4Desc">At this cheery, family-friendly “Original Buffalo Wing Joint,” the wings are served crispy and the dozen house-made sauces range from sweet to four alarm spicy. Like any savvy wing establishment, Fire on the Mountain offers both blue cheese and creamy ranch dressing with your meat—but like a true Portland wingding, it’s also concocted meatless alternatives.</string>
+
+    <string name="shopping1">Washington Square Mall</string>
+    <string name="shopping2">Pioneer Place</string>
+    <string name="shopping3">Lloyd Center</string>
+    <string name="shopping4">Clackamas Town Center</string>
+
+    <string name="s1Address">Address: 9585 SW Washington Square Rd, Portland, OR 97223</string>
+    <string name="s1Desc">Washington Square is Oregon’s premier shopping center, offering uncompromising style and selection with four major department stores, including Oregon’s largest Nordstrom, and more than 170 specialty stores.</string>
+
+    <string name="s2Address">Address: 700 SW Fifth Avenue, Portland, OR 97204</string>
+    <string name="s2Desc">Pioneer Place is the ultimate retail destination in the heart of Portland’s bustling business district. Whether you’re fitting in a quick shopping trip during your lunch break or planning to spend the day exploring the luxury retailers, you’re in for a treat at this unparalleled shopping destination.</string>
+
+    <string name="s3Address">Address: 2201 Lloyd Center, Portland, OR 97232</string>
+    <string name="s3Desc"> The mall features three floors of shopping, with the third level serving mostly as professional office spaces, a food court, and U.S. Education Corporations Carrington College. Lloyd Center also includes the Lloyd Center Ice Skating Rink, which has become the main draw for the mall.</string>
+
+    <string name="s4Address">Address: 12000 SE 82nd Ave, Happy Valley, OR 97086</string>
+    <string name="s4Desc">A wide variety of shops, including A bookstore, major clothing stores and REI. A movie theater with many options, and about 12 screens. And plenty of restaurants.</string>
+
+</resources>
