@@ -9,8 +9,3 @@ Introducing the TourPortland App—an immersive gateway to unlock the wonders of
 <a href="https://github.com/nguyricky/TourPortland/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=nguyricky/TourPortland" />
 </a>
-
-
-## Support
-
-Feel free to [donate](https://ko-fi.com/rickynguyen), and know that every contribution goes a long way in supporting my continued development!
